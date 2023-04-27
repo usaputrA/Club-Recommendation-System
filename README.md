@@ -1,5 +1,7 @@
 # Club-Recommendation-System
-Clubs that a person may be interested in joining will be recommended by the program, based on the scoring system described below, which is a club recommendation system for a social network.
+Clubs that a person may be interested in joining will be recommended by the program, based on the scoring system described below, which is a club recommendation system for a social network. 
+
+For further program, kindly check out `club_functions.py`.
 
 ## Recommendation score
 Imagine that a person wants to get recommendations for potential clubs — clubs they are not a member of but may wish to join. The social network calculates a recommendation score for each potential club.
