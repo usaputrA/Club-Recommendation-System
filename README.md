@@ -15,9 +15,10 @@ Examples: refer to the diagram below, which represents the data in P2F (i.e., a 
 
 When making recommendations for Jesse Katsopolis, the result is: [('Comics R Us', 2), ('Smash Club', 1)]
 
-Comics R Us gets one point because Jesse Katsopolis's friend Joey Gladstone is a member of Comics R Us.
-Comics R Us gets a second point because Joey is a member of Comics R Us and both Jesse and Joey are members of Parent Council.
-Smash Club gets one point because Kimmy is a member of Smash Club and Kimmy is in a different club (Rock N Rollers) with Jesse.
+* Comics R Us gets one point because Jesse Katsopolis's friend Joey Gladstone is a member of Comics R Us.
+* Comics R Us gets a second point because Joey is a member of Comics R Us and both Jesse and Joey are members of Parent Council.
+* Smash Club gets one point because Kimmy is a member of Smash Club and Kimmy is in a different club (Rock N Rollers) with Jesse.
+
 When making recommendations for Stephanie J Tanner, the result is: [('Comet Club', 1), ('Rock N Rollers', 1), ('Smash Club', 1)]
 
 * Comet Club gets one point because Stephanie's friend Michelle Tanner is a member of Comet Club.
